@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "أحمد محمد",
+    "academicNumber": "SCH-2024-0134",
+    "academicYear": "الأولى",
+    "subject": "هندسة برمجيات",
+    "score": 78,
+    "date": "2024-11-17"
+  },
+  {
+    "id": 2,
+    "name": "سارة أحمد",
+    "academicNumber": "SCH-2024-0078",
+    "academicYear": "الثانية",
+    "subject": "قواعد بيانات",
+    "score": 55,
+    "date": "2024-11-16"
+  },
+  {
+    "id": 3,
+    "name": "منى علي",
+    "academicNumber": "SCH-2024-0022",
+    "academicYear": "الثالثة",
+    "subject": "رياضيات",
+    "score": 89,
+    "date": "2024-11-15"
+  },
+  {
+    "id": 4,
+    "name": "يوسف حسن",
+    "academicNumber": "SCH-2024-0057",
+    "academicYear": "الرابعة",
+    "subject": "فيزياء",
+    "score": 61,
+    "date": "2024-11-14"
+  },
+  {
+    "id": 5,
+    "name": "ليلى سمير",
+    "academicNumber": "SCH-2024-0093",
+    "academicYear": "الخامسة",
+    "subject": "كيمياء",
+    "score": 72,
+    "date": "2024-11-13"
+  },
+  {
+    "id": 6,
+    "name": "محمد علي",
+    "academicNumber": "SCH-2024-0108",
+    "academicYear": "السادسة",
+    "subject": "لغة إنجليزية",
+    "score": 94,
+    "date": "2024-11-12"
+  }
+]
